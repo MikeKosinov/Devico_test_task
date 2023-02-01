@@ -1,0 +1,5 @@
+// Selectors for "Get in touch" button under the 
+//'Let's make an extraordinary product together'
+
+XPath = "//a[@class='home-top-section__button-container']/div[text()='Get in Touch']";
+CSS = "a.header__right-container>div.button";
